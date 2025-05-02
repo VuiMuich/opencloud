@@ -130,6 +130,16 @@ func DefaultConfig() *config.Config {
 			StorageAddress: "eu.opencloud.api.storage-system",
 			SystemUserIDP:  "internal",
 		},
+		Mail: config.Mail{
+			Master: config.MasterAuth{
+				Username: "master",
+				Password: "admin",
+			},
+			BaseUrl:         "https://stalwart.opencloud.test",
+			JmapUrl:         "https://stalwart.opencloud.test/jmap",
+			Timeout:         time.Duration(3 * time.Second),
+			ContextCacheTTL: time.Duration(1 * time.Hour),
+		},
 	}
 }
 
