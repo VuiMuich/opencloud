@@ -107,8 +107,6 @@ func NewService(ctx context.Context, options ...Option) (*Service, error) {
 		log.Level(opts.Config.Log.Level),
 	)
 
-	l.Info().Msg("===== NewService =====")
-
 	globalCtx, cancelGlobal := context.WithCancel(ctx)
 
 	s := &Service{
