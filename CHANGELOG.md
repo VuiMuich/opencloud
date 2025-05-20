@@ -4,6 +4,7 @@
 
 ### 📦️ Dependencies
 
+- build(deps-dev): bump i18next-conv from 14.1.0 to 15.1.1 in /services/idp [[#887](https://github.com/opencloud-eu/opencloud/pull/887)]
 - build(deps): bump golang.org/x/net from 0.39.0 to 0.40.0 [[#889](https://github.com/opencloud-eu/opencloud/pull/889)]
 - build(deps): bump github.com/olekukonko/tablewriter from 0.0.5 to 1.0.6 [[#888](https://github.com/opencloud-eu/opencloud/pull/888)]
 
