@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.3.1](https://github.com/opencloud-eu/opencloud/releases/tag/v2.3.1) - 2025-05-20
+
+### 📦️ Dependencies
+
+- build(deps): bump github.com/olekukonko/tablewriter from 0.0.5 to 1.0.6 [[#888](https://github.com/opencloud-eu/opencloud/pull/888)]
+
 ## [2.3.0](https://github.com/opencloud-eu/opencloud/releases/tag/v2.3.0) - 2025-05-19
 
 ### ❤️ Thanks to all contributors! ❤️
