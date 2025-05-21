@@ -4,7 +4,11 @@
 
 ### ❤️ Thanks to all contributors! ❤️
 
-@rhafer
+@ScharfViktor, @rhafer
+
+### 🐛 Bug Fixes
+
+- always get the user email for admin user [[#898](https://github.com/opencloud-eu/opencloud/pull/898)]
 
 ### 📦️ Dependencies
 
