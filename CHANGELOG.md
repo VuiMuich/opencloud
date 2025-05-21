@@ -4,6 +4,7 @@
 
 ### 📦️ Dependencies
 
+- build(deps): bump github.com/blevesearch/bleve/v2 from 2.5.0 to 2.5.1 [[#900](https://github.com/opencloud-eu/opencloud/pull/900)]
 - build(deps): bump axios from 1.7.7 to 1.8.2 in /services/idp [[#902](https://github.com/opencloud-eu/opencloud/pull/902)]
 - build(deps): bump github.com/opencloud-eu/libre-graph-api-go from 1.0.5 to 1.0.6 [[#899](https://github.com/opencloud-eu/opencloud/pull/899)]
 - build(deps): bump @types/node from 20.14.11 to 22.15.19 in /services/idp [[#886](https://github.com/opencloud-eu/opencloud/pull/886)]
