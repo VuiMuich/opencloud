@@ -1,9 +1,10 @@
 # Changelog
 
-## [2.3.1](https://github.com/opencloud-eu/opencloud/releases/tag/v2.3.1) - 2025-05-20
+## [2.3.1](https://github.com/opencloud-eu/opencloud/releases/tag/v2.3.1) - 2025-05-21
 
 ### 📦️ Dependencies
 
+- build(deps): bump axios from 1.7.7 to 1.8.2 in /services/idp [[#902](https://github.com/opencloud-eu/opencloud/pull/902)]
 - build(deps): bump github.com/opencloud-eu/libre-graph-api-go from 1.0.5 to 1.0.6 [[#899](https://github.com/opencloud-eu/opencloud/pull/899)]
 - build(deps): bump @types/node from 20.14.11 to 22.15.19 in /services/idp [[#886](https://github.com/opencloud-eu/opencloud/pull/886)]
 - build(deps-dev): bump i18next-conv from 14.1.0 to 15.1.1 in /services/idp [[#887](https://github.com/opencloud-eu/opencloud/pull/887)]
