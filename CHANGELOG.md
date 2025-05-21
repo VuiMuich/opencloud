@@ -2,6 +2,10 @@
 
 ## [2.3.1](https://github.com/opencloud-eu/opencloud/releases/tag/v2.3.1) - 2025-05-21
 
+### ❤️ Thanks to all contributors! ❤️
+
+@rhafer
+
 ### 📦️ Dependencies
 
 - build(deps): bump github.com/blevesearch/bleve/v2 from 2.5.0 to 2.5.1 [[#900](https://github.com/opencloud-eu/opencloud/pull/900)]
