@@ -20,6 +20,7 @@
 
 ### 📦️ Dependencies
 
+- build(deps): bump github.com/nats-io/nats-server/v2 from 2.11.3 to 2.11.4 [[#914](https://github.com/opencloud-eu/opencloud/pull/914)]
 - build(deps): bump go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc from 1.35.0 to 1.36.0 [[#907](https://github.com/opencloud-eu/opencloud/pull/907)]
 - build(deps): bump go.opentelemetry.io/otel/trace from 1.35.0 to 1.36.0 [[#906](https://github.com/opencloud-eu/opencloud/pull/906)]
 - build(deps): bump github.com/blevesearch/bleve/v2 from 2.5.0 to 2.5.1 [[#900](https://github.com/opencloud-eu/opencloud/pull/900)]
