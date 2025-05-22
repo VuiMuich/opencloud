@@ -16,6 +16,7 @@
 
 ### 📦️ Dependencies
 
+- build(deps): bump go.opentelemetry.io/otel/trace from 1.35.0 to 1.36.0 [[#906](https://github.com/opencloud-eu/opencloud/pull/906)]
 - build(deps): bump github.com/blevesearch/bleve/v2 from 2.5.0 to 2.5.1 [[#900](https://github.com/opencloud-eu/opencloud/pull/900)]
 - build(deps): bump axios from 1.7.7 to 1.8.2 in /services/idp [[#902](https://github.com/opencloud-eu/opencloud/pull/902)]
 - build(deps): bump github.com/opencloud-eu/libre-graph-api-go from 1.0.5 to 1.0.6 [[#899](https://github.com/opencloud-eu/opencloud/pull/899)]
