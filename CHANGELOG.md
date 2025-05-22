@@ -4,7 +4,11 @@
 
 ### ❤️ Thanks to all contributors! ❤️
 
-@ScharfViktor, @micbar, @rhafer
+@AlexAndBear, @ScharfViktor, @micbar, @rhafer
+
+### ✨ Features
+
+- feat: hide close button in collabora [[#828](https://github.com/opencloud-eu/opencloud/pull/828)]
 
 ### 📈 Enhancement
 
