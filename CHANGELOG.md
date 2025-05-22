@@ -1,10 +1,14 @@
 # Changelog
 
-## [2.3.1](https://github.com/opencloud-eu/opencloud/releases/tag/v2.3.1) - 2025-05-21
+## [2.4.0](https://github.com/opencloud-eu/opencloud/releases/tag/v2.4.0) - 2025-05-22
 
 ### ❤️ Thanks to all contributors! ❤️
 
-@ScharfViktor, @rhafer
+@ScharfViktor, @micbar, @rhafer
+
+### 📈 Enhancement
+
+- feat: add webp format [[#869](https://github.com/opencloud-eu/opencloud/pull/869)]
 
 ### 🐛 Bug Fixes
 
