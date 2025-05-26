@@ -22,6 +22,7 @@
 
 ### 📦️ Dependencies
 
+- build(deps): bump i18next-browser-languagedetector from 7.2.1 to 8.1.0 in /services/idp [[#937](https://github.com/opencloud-eu/opencloud/pull/937)]
 - build(deps): bump go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp from 0.60.0 to 0.61.0 [[#923](https://github.com/opencloud-eu/opencloud/pull/923)]
 - build(deps): bump github.com/nats-io/nats-server/v2 from 2.11.3 to 2.11.4 [[#914](https://github.com/opencloud-eu/opencloud/pull/914)]
 - build(deps): bump go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc from 1.35.0 to 1.36.0 [[#907](https://github.com/opencloud-eu/opencloud/pull/907)]
