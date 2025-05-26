@@ -4,10 +4,11 @@
 
 ### ❤️ Thanks to all contributors! ❤️
 
-@AlexAndBear, @ScharfViktor, @micbar, @rhafer
+@AlexAndBear, @ScharfViktor, @fschade, @micbar, @rhafer
 
 ### ✨ Features
 
+- Add profile photo [[#864](https://github.com/opencloud-eu/opencloud/pull/864)]
 - feat: hide close button in collabora [[#828](https://github.com/opencloud-eu/opencloud/pull/828)]
 
 ### 📈 Enhancement
