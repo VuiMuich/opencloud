@@ -1,6 +1,6 @@
 # Changelog
 
-## [2.4.0](https://github.com/opencloud-eu/opencloud/releases/tag/v2.4.0) - 2025-05-22
+## [2.4.0](https://github.com/opencloud-eu/opencloud/releases/tag/v2.4.0) - 2025-05-26
 
 ### ❤️ Thanks to all contributors! ❤️
 
@@ -20,6 +20,7 @@
 
 ### 📦️ Dependencies
 
+- build(deps): bump go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp from 0.60.0 to 0.61.0 [[#923](https://github.com/opencloud-eu/opencloud/pull/923)]
 - build(deps): bump github.com/nats-io/nats-server/v2 from 2.11.3 to 2.11.4 [[#914](https://github.com/opencloud-eu/opencloud/pull/914)]
 - build(deps): bump go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc from 1.35.0 to 1.36.0 [[#907](https://github.com/opencloud-eu/opencloud/pull/907)]
 - build(deps): bump go.opentelemetry.io/otel/trace from 1.35.0 to 1.36.0 [[#906](https://github.com/opencloud-eu/opencloud/pull/906)]
