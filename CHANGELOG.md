@@ -13,6 +13,7 @@
 
 ### 📈 Enhancement
 
+- graph: Add more $select options to ListPermissions endpoint [[#916](https://github.com/opencloud-eu/opencloud/pull/916)]
 - feat: add webp format [[#869](https://github.com/opencloud-eu/opencloud/pull/869)]
 
 ### 🐛 Bug Fixes
