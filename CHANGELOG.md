@@ -1,6 +1,6 @@
 # Changelog
 
-## [2.4.0](https://github.com/opencloud-eu/opencloud/releases/tag/v2.4.0) - 2025-05-27
+## [2.4.0](https://github.com/opencloud-eu/opencloud/releases/tag/v2.4.0) - 2025-05-30
 
 ### ❤️ Thanks to all contributors! ❤️
 
@@ -13,6 +13,7 @@
 
 ### 📈 Enhancement
 
+- feat: add shareType to sharees field on activities api [[#954](https://github.com/opencloud-eu/opencloud/pull/954)]
 - graph: Add more $select options to ListPermissions endpoint [[#916](https://github.com/opencloud-eu/opencloud/pull/916)]
 - feat: add webp format [[#869](https://github.com/opencloud-eu/opencloud/pull/869)]
 
