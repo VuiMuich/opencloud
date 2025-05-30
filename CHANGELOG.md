@@ -11,15 +11,16 @@
 - Add profile photo [[#864](https://github.com/opencloud-eu/opencloud/pull/864)]
 - feat: hide close button in collabora [[#828](https://github.com/opencloud-eu/opencloud/pull/828)]
 
+### 🐛 Bug Fixes
+
+- fix(graph-metadata): lazy cs3 metadata storage initialization [[#946](https://github.com/opencloud-eu/opencloud/pull/946)]
+- always get the user email for admin user [[#898](https://github.com/opencloud-eu/opencloud/pull/898)]
+
 ### 📈 Enhancement
 
 - feat: add shareType to sharees field on activities api [[#954](https://github.com/opencloud-eu/opencloud/pull/954)]
 - graph: Add more $select options to ListPermissions endpoint [[#916](https://github.com/opencloud-eu/opencloud/pull/916)]
 - feat: add webp format [[#869](https://github.com/opencloud-eu/opencloud/pull/869)]
-
-### 🐛 Bug Fixes
-
-- always get the user email for admin user [[#898](https://github.com/opencloud-eu/opencloud/pull/898)]
 
 ### 📦️ Dependencies
 
