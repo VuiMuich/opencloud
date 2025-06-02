@@ -29,6 +29,8 @@
 
 ### 📦️ Dependencies
 
+- build(deps-dev): bump cldr from 7.5.0 to 7.9.0 in /services/idp [[#975](https://github.com/opencloud-eu/opencloud/pull/975)]
+- build(deps): bump github.com/olekukonko/tablewriter from 1.0.6 to 1.0.7 [[#974](https://github.com/opencloud-eu/opencloud/pull/974)]
 - build(deps): bump go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc from 0.60.0 to 0.61.0 [[#915](https://github.com/opencloud-eu/opencloud/pull/915)]
 - build(deps): bump go.opentelemetry.io/contrib/zpages from 0.60.0 to 0.61.0 [[#938](https://github.com/opencloud-eu/opencloud/pull/938)]
 - build(deps): bump @testing-library/user-event from 14.5.2 to 14.6.1 in /services/idp [[#939](https://github.com/opencloud-eu/opencloud/pull/939)]
