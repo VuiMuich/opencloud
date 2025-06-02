@@ -1,6 +1,6 @@
 # Changelog
 
-## [2.4.0](https://github.com/opencloud-eu/opencloud/releases/tag/v2.4.0) - 2025-05-30
+## [2.4.0](https://github.com/opencloud-eu/opencloud/releases/tag/v2.4.0) - 2025-06-02
 
 ### ❤️ Thanks to all contributors! ❤️
 
@@ -24,6 +24,7 @@
 
 ### 📦️ Dependencies
 
+- build(deps): bump go.opentelemetry.io/contrib/zpages from 0.60.0 to 0.61.0 [[#938](https://github.com/opencloud-eu/opencloud/pull/938)]
 - build(deps): bump @testing-library/user-event from 14.5.2 to 14.6.1 in /services/idp [[#939](https://github.com/opencloud-eu/opencloud/pull/939)]
 - build(deps): bump i18next-browser-languagedetector from 7.2.1 to 8.1.0 in /services/idp [[#937](https://github.com/opencloud-eu/opencloud/pull/937)]
 - build(deps): bump go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp from 0.60.0 to 0.61.0 [[#923](https://github.com/opencloud-eu/opencloud/pull/923)]
