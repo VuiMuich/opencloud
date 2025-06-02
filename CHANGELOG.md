@@ -11,6 +11,10 @@
 - Add profile photo [[#864](https://github.com/opencloud-eu/opencloud/pull/864)]
 - feat: hide close button in collabora [[#828](https://github.com/opencloud-eu/opencloud/pull/828)]
 
+### 📚 Documentation
+
+- Updated boxes in readme [[#970](https://github.com/opencloud-eu/opencloud/pull/970)]
+
 ### 📈 Enhancement
 
 - [full-ci] chore: bump web to v3.0.0-alpha.1 [[#972](https://github.com/opencloud-eu/opencloud/pull/972)]
@@ -25,6 +29,7 @@
 
 ### 📦️ Dependencies
 
+- build(deps): bump go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc from 0.60.0 to 0.61.0 [[#915](https://github.com/opencloud-eu/opencloud/pull/915)]
 - build(deps): bump go.opentelemetry.io/contrib/zpages from 0.60.0 to 0.61.0 [[#938](https://github.com/opencloud-eu/opencloud/pull/938)]
 - build(deps): bump @testing-library/user-event from 14.5.2 to 14.6.1 in /services/idp [[#939](https://github.com/opencloud-eu/opencloud/pull/939)]
 - build(deps): bump i18next-browser-languagedetector from 7.2.1 to 8.1.0 in /services/idp [[#937](https://github.com/opencloud-eu/opencloud/pull/937)]
