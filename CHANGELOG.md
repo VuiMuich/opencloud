@@ -33,6 +33,8 @@
 
 ### 📦️ Dependencies
 
+- build(deps): bump @types/node from 22.15.19 to 22.15.29 in /services/idp [[#980](https://github.com/opencloud-eu/opencloud/pull/980)]
+- build(deps): bump github.com/opencloud-eu/libre-graph-api-go from 1.0.6 to 1.0.7 [[#982](https://github.com/opencloud-eu/opencloud/pull/982)]
 - build(deps-dev): bump sass-loader from 16.0.4 to 16.0.5 in /services/idp [[#979](https://github.com/opencloud-eu/opencloud/pull/979)]
 - build(deps): bump web-vitals from 4.2.4 to 5.0.2 in /services/idp [[#978](https://github.com/opencloud-eu/opencloud/pull/978)]
 - build(deps): bump github.com/open-policy-agent/opa from 1.4.2 to 1.5.0 [[#977](https://github.com/opencloud-eu/opencloud/pull/977)]
