@@ -1,10 +1,14 @@
 # Changelog
 
-## [2.4.0](https://github.com/opencloud-eu/opencloud/releases/tag/v2.4.0) - 2025-06-03
+## [3.0.0](https://github.com/opencloud-eu/opencloud/releases/tag/v3.0.0) - 2025-06-03
 
 ### ❤️ Thanks to all contributors! ❤️
 
-@AlexAndBear, @ScharfViktor, @fschade, @kulmann, @micbar, @rhafer
+@AlexAndBear, @ScharfViktor, @butonic, @fschade, @kulmann, @micbar, @rhafer
+
+### 💥 Breaking changes
+
+- do not automatically expand drive root permissions [[#495](https://github.com/opencloud-eu/opencloud/pull/495)]
 
 ### ✨ Features
 
