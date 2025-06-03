@@ -12,6 +12,7 @@
 
 ### ✨ Features
 
+- Enhancement: Introduced support for PrivateLink in WebDAV search responses [[#983](https://github.com/opencloud-eu/opencloud/pull/983)]
 - Add profile photo [[#864](https://github.com/opencloud-eu/opencloud/pull/864)]
 - feat: hide close button in collabora [[#828](https://github.com/opencloud-eu/opencloud/pull/828)]
 
