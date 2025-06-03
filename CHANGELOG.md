@@ -1,6 +1,6 @@
 # Changelog
 
-## [2.4.0](https://github.com/opencloud-eu/opencloud/releases/tag/v2.4.0) - 2025-06-02
+## [2.4.0](https://github.com/opencloud-eu/opencloud/releases/tag/v2.4.0) - 2025-06-03
 
 ### ❤️ Thanks to all contributors! ❤️
 
@@ -29,6 +29,7 @@
 
 ### 📦️ Dependencies
 
+- build(deps-dev): bump sass-loader from 16.0.4 to 16.0.5 in /services/idp [[#979](https://github.com/opencloud-eu/opencloud/pull/979)]
 - build(deps): bump web-vitals from 4.2.4 to 5.0.2 in /services/idp [[#978](https://github.com/opencloud-eu/opencloud/pull/978)]
 - build(deps): bump github.com/open-policy-agent/opa from 1.4.2 to 1.5.0 [[#977](https://github.com/opencloud-eu/opencloud/pull/977)]
 - build(deps-dev): bump cldr from 7.5.0 to 7.9.0 in /services/idp [[#975](https://github.com/opencloud-eu/opencloud/pull/975)]
