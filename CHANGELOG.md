@@ -33,6 +33,7 @@
 
 ### 📦️ Dependencies
 
+- build(deps): bump @types/jest from 29.5.12 to 29.5.14 in /services/idp [[#987](https://github.com/opencloud-eu/opencloud/pull/987)]
 - build(deps): bump github.com/leonelquinteros/gotext from 1.7.1 to 1.7.2 [[#981](https://github.com/opencloud-eu/opencloud/pull/981)]
 - build(deps): bump @types/node from 22.15.19 to 22.15.29 in /services/idp [[#980](https://github.com/opencloud-eu/opencloud/pull/980)]
 - build(deps): bump github.com/opencloud-eu/libre-graph-api-go from 1.0.6 to 1.0.7 [[#982](https://github.com/opencloud-eu/opencloud/pull/982)]
