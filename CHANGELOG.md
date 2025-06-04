@@ -4,7 +4,7 @@
 
 ### ❤️ Thanks to all contributors! ❤️
 
-@AlexAndBear, @ScharfViktor, @aduffeck, @butonic, @fschade, @kulmann, @micbar, @rhafer
+@AlexAndBear, @ScharfViktor, @aduffeck, @butonic, @fschade, @kulmann, @micbar, @prashant-gurung899, @rhafer
 
 ### 💥 Breaking changes
 
@@ -15,6 +15,10 @@
 - Enhancement: Introduced support for PrivateLink in WebDAV search responses [[#983](https://github.com/opencloud-eu/opencloud/pull/983)]
 - Add profile photo [[#864](https://github.com/opencloud-eu/opencloud/pull/864)]
 - feat: hide close button in collabora [[#828](https://github.com/opencloud-eu/opencloud/pull/828)]
+
+### ✅ Tests
+
+- [full-ci] Change `eicar_com.zip` virus file and update tests [[#992](https://github.com/opencloud-eu/opencloud/pull/992)]
 
 ### 🐛 Bug Fixes
 
