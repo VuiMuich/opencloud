@@ -40,6 +40,7 @@
 
 ### 📦️ Dependencies
 
+- build(deps): bump @testing-library/react from 11.2.7 to 12.1.5 in /services/idp [[#994](https://github.com/opencloud-eu/opencloud/pull/994)]
 - build(deps): bump github.com/blevesearch/bleve/v2 from 2.5.1 to 2.5.2 [[#999](https://github.com/opencloud-eu/opencloud/pull/999)]
 - build(deps): bump @fontsource/roboto from 5.1.0 to 5.2.5 in /services/idp [[#995](https://github.com/opencloud-eu/opencloud/pull/995)]
 - build(deps): bump google.golang.org/grpc from 1.72.1 to 1.72.2 [[#991](https://github.com/opencloud-eu/opencloud/pull/991)]
