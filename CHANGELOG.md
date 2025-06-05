@@ -1,6 +1,6 @@
 # Changelog
 
-## [3.0.0](https://github.com/opencloud-eu/opencloud/releases/tag/v3.0.0) - 2025-06-04
+## [3.0.0](https://github.com/opencloud-eu/opencloud/releases/tag/v3.0.0) - 2025-06-05
 
 ### ❤️ Thanks to all contributors! ❤️
 
@@ -18,6 +18,7 @@
 
 ### ✅ Tests
 
+- [full-ci] ApiTest. checking private link in report response [[#993](https://github.com/opencloud-eu/opencloud/pull/993)]
 - [full-ci] Change `eicar_com.zip` virus file and update tests [[#992](https://github.com/opencloud-eu/opencloud/pull/992)]
 
 ### 🐛 Bug Fixes
