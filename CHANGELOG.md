@@ -40,6 +40,7 @@
 
 ### 📦️ Dependencies
 
+- build(deps-dev): bump postcss-normalize from 13.0.0 to 13.0.1 in /services/idp [[#1003](https://github.com/opencloud-eu/opencloud/pull/1003)]
 - build(deps): bump @testing-library/react from 11.2.7 to 12.1.5 in /services/idp [[#994](https://github.com/opencloud-eu/opencloud/pull/994)]
 - build(deps): bump github.com/blevesearch/bleve/v2 from 2.5.1 to 2.5.2 [[#999](https://github.com/opencloud-eu/opencloud/pull/999)]
 - build(deps): bump @fontsource/roboto from 5.1.0 to 5.2.5 in /services/idp [[#995](https://github.com/opencloud-eu/opencloud/pull/995)]
