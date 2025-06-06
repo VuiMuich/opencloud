@@ -42,6 +42,7 @@
 
 ### 📦️ Dependencies
 
+- build(deps): bump golang.org/x/sync from 0.14.0 to 0.15.0 [[#1006](https://github.com/opencloud-eu/opencloud/pull/1006)]
 - build(deps-dev): bump eslint-plugin-react from 7.37.2 to 7.37.5 in /services/idp [[#1004](https://github.com/opencloud-eu/opencloud/pull/1004)]
 - build(deps-dev): bump postcss-normalize from 13.0.0 to 13.0.1 in /services/idp [[#1003](https://github.com/opencloud-eu/opencloud/pull/1003)]
 - build(deps): bump @testing-library/react from 11.2.7 to 12.1.5 in /services/idp [[#994](https://github.com/opencloud-eu/opencloud/pull/994)]
